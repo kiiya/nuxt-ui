@@ -30,7 +30,10 @@
           </tfoot>
         </table>
       </div>
-      <input type="text" class="border px-4 rounded-md py-2 self-end w-full mb-4" />
+      <div>
+        <span class="uppercase font-semibold tracking-wider text-xs text-gray-600 mb-2">Enter your bill</span>
+        <input type="text" class="border px-4 rounded-md py-2 self-end w-full mb-4" />
+      </div>
     </div>
 
     <div class="border-t space-y-4 rounded-bl-lg rounded-br-lg px-6 py-3">
